@@ -1,0 +1,104 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "pratica10",
+            "cwd": "pratica10",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica10_1",
+            "cwd": "pratica10_1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica10_2",
+            "cwd": "pratica10_2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica11",
+            "cwd": "pratica11",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica12",
+            "cwd": "pratica12",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica13",
+            "cwd": "pratica13",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica2",
+            "cwd": "pratica2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica3",
+            "cwd": "pratica3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica4",
+            "cwd": "pratica4",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica5",
+            "cwd": "pratica5",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica6",
+            "cwd": "pratica6",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica7",
+            "cwd": "pratica7",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica8",
+            "cwd": "pratica8",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica8_1",
+            "cwd": "pratica8_1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica8_2",
+            "cwd": "pratica8_2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pratica9",
+            "cwd": "pratica9",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
